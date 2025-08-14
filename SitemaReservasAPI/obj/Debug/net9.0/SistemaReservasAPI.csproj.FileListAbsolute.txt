@@ -147,3 +147,4 @@ D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug
 D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.pdb
 D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.genruntimeconfig.cache
 D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\ref\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasApi\obj\Debug\net9.0\SistemaReservasAPI.sourcelink.json
