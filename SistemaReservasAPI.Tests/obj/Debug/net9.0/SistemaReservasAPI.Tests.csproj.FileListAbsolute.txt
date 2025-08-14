@@ -110,3 +110,17 @@ D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\ob
 D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\obj\Debug\net9.0\SistemaReservasAPI.Tests.pdb
 D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\obj\Debug\net9.0\SistemaReservasAPI.Tests.genruntimeconfig.cache
 D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\obj\Debug\net9.0\ref\SistemaReservasAPI.Tests.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\MySqlConnector.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll

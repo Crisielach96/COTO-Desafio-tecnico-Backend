@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasApi\\SistemaReservasAPI.csproj": {}
+    "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasAPI\\SistemaReservasAPI.csproj": {}
   },
   "projects": {
-    "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasApi\\SistemaReservasAPI.csproj": {
+    "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasAPI\\SistemaReservasAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasApi\\SistemaReservasAPI.csproj",
+        "projectUniqueName": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasAPI\\SistemaReservasAPI.csproj",
         "projectName": "SistemaReservasAPI",
-        "projectPath": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasApi\\SistemaReservasAPI.csproj",
+        "projectPath": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasAPI\\SistemaReservasAPI.csproj",
         "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
-        "outputPath": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasApi\\obj\\",
+        "outputPath": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SitemaReservasAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,26 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

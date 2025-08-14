@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaReservasAPI.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2b70ca2c87971345083b0d1b709386c643f39f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77c9088131f4ada95fc2e22d3409b5df54a0bf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaReservasAPI.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaReservasAPI.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

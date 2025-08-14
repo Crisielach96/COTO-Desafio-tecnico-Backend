@@ -1,121 +1,124 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SistemaReservasAPI.Controllers;
+using SistemaReservasAPI.Data;
 using SistemaReservasAPI.Models;
 using Xunit;
-using System.Linq;
 
 namespace SistemaReservasAPI.Tests
 {
     public class ReservaControllerTests
     {
-        private ReservaController GetControllerConDatosIniciales()
+        private ReservaDbContext GetDbContext()
         {
-            // Limpia lista estática para evitar datos cruzados entre tests
-            var field = typeof(ReservaController).GetField("reservas", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Static);
-            field.SetValue(null, new List<Reserva>());
+            var options = new DbContextOptionsBuilder<ReservaDbContext>()
+                .UseInMemoryDatabase(Guid.NewGuid().ToString())
+                .Options;
 
-            var idField = typeof(ReservaController).GetField("nextId", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Static);
-            idField.SetValue(null, 1);
-
-            return new ReservaController();
+            return new ReservaDbContext(options);
         }
 
         [Fact]
-        public void GetReservas_DebeRetornarListaVacia_AlInicio()
+        public async Task GetReservas_ReturnsAllReservas()
         {
             // Arrange
-            var controller = GetControllerConDatosIniciales();
+            var context = GetDbContext();
+            context.Reservas.Add(new Reserva { Id = 1, Cliente = "Juan", SalonId = "salon1", Fecha = DateTime.Today, HoraInicio = "10:00", HoraFin = "11:00" });
+            context.Reservas.Add(new Reserva { Id = 2, Cliente = "Ana", SalonId = "salon2", Fecha = DateTime.Today, HoraInicio = "12:00", HoraFin = "13:00" });
+            await context.SaveChangesAsync();
+
+            var controller = new ReservaController(context);
 
             // Act
-            var result = controller.GetReservas();
-
-            // Assert
+            var result = await controller.GetReservas();
             var okResult = Assert.IsType<OkObjectResult>(result.Result);
-            var lista = Assert.IsAssignableFrom<IEnumerable<object>>(okResult.Value);
-            Assert.Empty(lista);
-        }
-
-        [Fact]
-        public void CrearReserva_DebeCrearCorrectamente()
-        {
-            // Arrange
-            var controller = GetControllerConDatosIniciales();
-            var nuevaReserva = new Reserva
-            {
-                Cliente = "Juan Pérez",
-                SalonId = "Salon1",
-                Fecha = new DateTime(2025, 8, 14),
-                HoraInicio = "10:00",
-                HoraFin = "11:00"
-            };
-
-            // Act
-            var result = controller.CrearReserva(nuevaReserva);
+            var reservas = Assert.IsAssignableFrom<System.Collections.Generic.IEnumerable<object>>(okResult.Value);
 
             // Assert
-            var createdResult = Assert.IsType<CreatedAtActionResult>(result.Result);
-            var reservaCreada = Assert.IsType<Reserva>(createdResult.Value);
-            Assert.Equal(1, reservaCreada.Id);
-            Assert.Equal("Juan Pérez", reservaCreada.Cliente);
+            Assert.Equal(2, reservas.Count());
         }
 
         [Fact]
-        public void CrearReserva_DebeFallarSiHorarioOcupado()
+        public async Task GetReservasPorFecha_FiltersByFecha()
         {
             // Arrange
-            var controller = GetControllerConDatosIniciales();
-            var reserva1 = new Reserva
-            {
-                Cliente = "Cliente1",
-                SalonId = "Salon1",
-                Fecha = new DateTime(2025, 8, 14),
-                HoraInicio = "10:00",
-                HoraFin = "11:00"
-            };
-            controller.CrearReserva(reserva1);
+            var context = GetDbContext();
+            var today = DateTime.Today;
+            context.Reservas.Add(new Reserva { Id = 1, Cliente = "Juan", SalonId = "salon1", Fecha = today, HoraInicio = "10:00", HoraFin = "11:00" });
+            context.Reservas.Add(new Reserva { Id = 2, Cliente = "Ana", SalonId = "salon2", Fecha = today.AddDays(1), HoraInicio = "12:00", HoraFin = "13:00" });
+            await context.SaveChangesAsync();
 
-            var reserva2 = new Reserva
-            {
-                Cliente = "Cliente2",
-                SalonId = "Salon1",
-                Fecha = new DateTime(2025, 8, 14),
-                HoraInicio = "10:00",
-                HoraFin = "11:00"
-            };
+            var controller = new ReservaController(context);
 
             // Act
-            var result = controller.CrearReserva(reserva2);
+            var result = await controller.GetReservasPorFecha(today);
+            var okResult = Assert.IsType<OkObjectResult>(result.Result);
+            var reservas = Assert.IsAssignableFrom<System.Collections.Generic.IEnumerable<object>>(okResult.Value);
+
+            // Assert
+            Assert.Single(reservas);
+        }
+
+        [Fact]
+        public async Task CrearReserva_CreatesNewReserva()
+        {
+            // Arrange
+            var context = GetDbContext();
+            var controller = new ReservaController(context);
+            var reserva = new Reserva { Cliente = "Pedro", SalonId = "salon1", Fecha = DateTime.Today, HoraInicio = "14:00", HoraFin = "15:00" };
+
+            // Act
+            var result = await controller.CrearReserva(reserva);
+            var createdResult = Assert.IsType<CreatedAtActionResult>(result.Result);
+            var createdReserva = Assert.IsType<Reserva>(createdResult.Value);
+
+            // Assert
+            Assert.Equal(reserva.Cliente, createdReserva.Cliente);
+            Assert.Equal(reserva.SalonId, createdReserva.SalonId);
+            Assert.Single(context.Reservas); // Verifica que se guardó en el contexto
+        }
+
+        [Fact]
+        public async Task CrearReserva_ReturnsBadRequest_WhenConflictingHour()
+        {
+            // Arrange
+            var context = GetDbContext();
+            var existing = new Reserva { Cliente = "Juan", SalonId = "salon1", Fecha = DateTime.Today, HoraInicio = "10:00", HoraFin = "11:00" };
+            context.Reservas.Add(existing);
+            await context.SaveChangesAsync();
+
+            var controller = new ReservaController(context);
+            var newReserva = new Reserva { Cliente = "Ana", SalonId = "salon1", Fecha = DateTime.Today, HoraInicio = "10:00", HoraFin = "11:00" };
+
+            // Act
+            var result = await controller.CrearReserva(newReserva);
 
             // Assert
             var badRequest = Assert.IsType<BadRequestObjectResult>(result.Result);
-            var mensaje = badRequest.Value.GetType().GetProperty("message")?.GetValue(badRequest.Value, null);
-            Assert.Equal("Ya existe una reserva en ese día y horario", mensaje);
+            Assert.Contains("Ya existe una reserva", badRequest.Value.ToString());
         }
 
         [Fact]
-        public void GetReservasPorFecha_DebeFiltrarCorrectamente()
+        public async Task CrearReserva_ReturnsBadRequest_WhenClienteAlreadyReserved()
         {
             // Arrange
-            var controller = GetControllerConDatosIniciales();
-            var reserva1 = new Reserva
-            {
-                Cliente = "Cliente1",
-                SalonId = "Salon1",
-                Fecha = new DateTime(2025, 8, 14),
-                HoraInicio = "10:00",
-                HoraFin = "11:00"
-            };
-            controller.CrearReserva(reserva1);
+            var context = GetDbContext();
+            var existing = new Reserva { Cliente = "Juan", SalonId = "salon1", Fecha = DateTime.Today, HoraInicio = "10:00", HoraFin = "11:00" };
+            context.Reservas.Add(existing);
+            await context.SaveChangesAsync();
+
+            var controller = new ReservaController(context);
+            var newReserva = new Reserva { Cliente = "Juan", SalonId = "salon2", Fecha = DateTime.Today, HoraInicio = "12:00", HoraFin = "13:00" };
 
             // Act
-            var result = controller.GetReservasPorFecha(new DateTime(2025, 8, 14));
+            var result = await controller.CrearReserva(newReserva);
 
             // Assert
-            var okResult = Assert.IsType<OkObjectResult>(result.Result);
-            var lista = Assert.IsAssignableFrom<IEnumerable<object>>(okResult.Value);
-            Assert.Single(lista);
+            var badRequest = Assert.IsType<BadRequestObjectResult>(result.Result);
+            Assert.Contains("El cliente ya tiene una reserva", badRequest.Value.ToString());
         }
     }
 }

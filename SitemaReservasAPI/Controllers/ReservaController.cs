@@ -1,77 +1,91 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using SistemaReservasAPI.Data;
 using SistemaReservasAPI.Models;
 
-namespace SistemaReservasAPI.Controllers;
-
-[ApiController]
-[Route("api/")]
-public class ReservaController : ControllerBase
+namespace SistemaReservasAPI.Controllers
 {
-    private static List<Reserva> reservas = new List<Reserva>();
-    private static int nextId = 1;
-
-    // Obtengo todas las reservas
-    [HttpGet]
-    [Route("reserva/all")]
-    public ActionResult<IEnumerable<Reserva>> GetReservas()
+    [ApiController]
+    [Route("api/")]
+    public class ReservaController : ControllerBase
     {
-        var reservasFormateadas = reservas.Select(r => new
+        private readonly ReservaDbContext _context;
+
+        public ReservaController(ReservaDbContext context)
         {
-            r.Id,
-            r.Cliente,
-            r.SalonId,
-            Fecha = r.Fecha.ToString("dd-MM-yyyy"),
-            r.HoraInicio,
-            r.HoraFin
-        });
-
-        return Ok(reservasFormateadas);
-    }
-
-    // Obtengo todas las reservas
-    [HttpGet]
-    [Route("reserva")]
-    public ActionResult<IEnumerable<Reserva>> GetReservasPorFecha([FromQuery] DateTime? fecha)
-    {
-
-        var query = reservas.AsQueryable();
-
-        if (fecha.HasValue)
-        {
-            query = query.Where(r => r.Fecha.Date == fecha.Value.Date);
+            _context = context;
         }
 
-        var reservasFormateadas = query.Select(r => new
+        // GET: api/reserva/all
+        [HttpGet("reserva/all")]
+        public async Task<ActionResult<IEnumerable<object>>> GetReservas()
         {
-            r.Id,
-            r.Cliente,
-            r.SalonId,
-            Fecha = r.Fecha.ToString("dd-MM-yyyy"),
-            r.HoraInicio,
-            r.HoraFin
-        });
+            var reservasFormateadas = await _context.Reservas
+                .Select(r => new
+                {
+                    r.Id,
+                    r.Cliente,
+                    r.SalonId,
+                    Fecha = r.Fecha.ToString("dd-MM-yyyy"),
+                    r.HoraInicio,
+                    r.HoraFin
+                })
+                .ToListAsync();
 
-        return Ok(reservasFormateadas);
-    }
-
-    // Creo una reserva
-    [HttpPost]
-    [Route("reserva")]
-    public ActionResult<Reserva> CrearReserva([FromBody] Reserva reserva)
-    {
-        if (reservas.Any(r => r.Fecha == reserva.Fecha && r.HoraInicio == reserva.HoraInicio && r.SalonId == reserva.SalonId))
-        {
-            return BadRequest(new { message = "Ya existe una reserva en ese día y horario" });
+            return Ok(reservasFormateadas);
         }
 
-        if (reservas.Any(r => r.Fecha == reserva.Fecha && r.Cliente == reserva.Cliente))
+        // GET: api/reserva?fecha=2025-08-14
+        [HttpGet("reserva")]
+        public async Task<ActionResult<IEnumerable<object>>> GetReservasPorFecha([FromQuery] DateTime? fecha)
         {
-            return BadRequest(new { message = "El cliente ya tiene una reserva ese día" });
+            var query = _context.Reservas.AsQueryable();
+
+            if (fecha.HasValue)
+            {
+                query = query.Where(r => r.Fecha.Date == fecha.Value.Date);
+            }
+
+            var reservasFormateadas = await query
+                .Select(r => new
+                {
+                    r.Id,
+                    r.Cliente,
+                    r.SalonId,
+                    Fecha = r.Fecha.ToString("dd-MM-yyyy"),
+                    r.HoraInicio,
+                    r.HoraFin
+                })
+                .ToListAsync();
+
+            return Ok(reservasFormateadas);
         }
 
-        reserva.Id = nextId++;
-        reserva.Fecha = DateTime.ParseExact(reserva.Fecha.ToString("dd-MM-yyyy"), "dd-MM-yyyy", null);
-        reservas.Add(reserva);
-        return CreatedAtAction(nameof(GetReservas), new { id = reserva.Id }, reserva);
+        // POST: api/reserva
+        [HttpPost("reserva")]
+        public async Task<ActionResult<Reserva>> CrearReserva([FromBody] Reserva reserva)
+        {
+            // Validar conflicto de horario exacto
+            if (await _context.Reservas.AnyAsync(r =>
+                r.Fecha.Date == reserva.Fecha.Date &&
+                r.SalonId == reserva.SalonId &&
+                r.HoraInicio == reserva.HoraInicio))
+            {
+                return BadRequest(new { message = "Ya existe una reserva en ese día y horario" });
+            }
+
+            // Validar cliente ya reservado en la misma fecha
+            if (await _context.Reservas.AnyAsync(r =>
+                r.Fecha.Date == reserva.Fecha.Date &&
+                r.Cliente == reserva.Cliente))
+            {
+                return BadRequest(new { message = "El cliente ya tiene una reserva ese día" });
+            }
+
+            _context.Reservas.Add(reserva);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetReservas), new { id = reserva.Id }, reserva);
+        }
     }
 }
