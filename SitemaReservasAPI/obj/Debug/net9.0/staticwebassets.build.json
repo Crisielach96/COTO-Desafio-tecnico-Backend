@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TuE2lxTOzvxwTyr+gXGzXmrAT7CKuEp2IWsMPaf42Mc=",
+  "Source": "SistemaReservasAPI",
+  "BasePath": "_content/SistemaReservasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

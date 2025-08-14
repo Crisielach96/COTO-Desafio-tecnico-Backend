@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SistemaReservasAPI.props" />
+</Project>
