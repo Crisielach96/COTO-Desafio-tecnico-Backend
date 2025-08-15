@@ -1,0 +1,332 @@
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\appsettings.json
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.staticwebassets.endpoints.json
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.exe
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.deps.json
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.runtimeconfig.json
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.dll
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.pdb
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyecto\SistemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.csproj.AssemblyReference.cache
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfoInputs.cache
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfo.cs
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.csproj.CoreCompileInputs.cache
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\scopedcss\bundle\SistemaReservasAPI.styles.css
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.SistemaReservasAPI.props
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SistemaReservasAPI.props
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SistemaReservasAPI.props
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaR.32BA12AC.Up2Date
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.dll
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\refint\SistemaReservasAPI.dll
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.pdb
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.genruntimeconfig.cache
+D:\Proyecto\SistemaReservasAPI\obj\Debug\net9.0\ref\SistemaReservasAPI.dll
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\appsettings.Development.json
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\appsettings.json
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\SistemaReservasAPI.staticwebassets.endpoints.json
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\SistemaReservasAPI.exe
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\SistemaReservasAPI.deps.json
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\SistemaReservasAPI.runtimeconfig.json
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\SistemaReservasAPI.dll
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\SistemaReservasAPI.pdb
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\SuriscCodeTestBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.csproj.AssemblyReference.cache
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfoInputs.cache
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfo.cs
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.csproj.CoreCompileInputs.cache
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.sourcelink.json
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\scopedcss\bundle\SistemaReservasAPI.styles.css
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets.build.json
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets.development.json
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets\msbuild.build.SistemaReservasAPI.props
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SistemaReservasAPI.props
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SistemaReservasAPI.props
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets.pack.json
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaR.32BA12AC.Up2Date
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.dll
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\refint\SistemaReservasAPI.dll
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.pdb
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\SistemaReservasAPI.genruntimeconfig.cache
+D:\GitHub\SuriscCodeTestBackend\obj\Debug\net9.0\ref\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\appsettings.Development.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\appsettings.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\SistemaReservasAPI.staticwebassets.endpoints.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\SistemaReservasAPI.exe
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\SistemaReservasAPI.deps.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\SistemaReservasAPI.runtimeconfig.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\SistemaReservasAPI.pdb
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.csproj.AssemblyReference.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfoInputs.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfo.cs
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.csproj.CoreCompileInputs.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\scopedcss\bundle\SistemaReservasAPI.styles.css
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets\msbuild.build.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets.pack.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaR.32BA12AC.Up2Date
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\refint\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.pdb
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\SistemaReservasAPI.genruntimeconfig.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\obj\Debug\net9.0\ref\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\appsettings.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.staticwebassets.endpoints.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.exe
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.deps.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.runtimeconfig.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.pdb
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.csproj.AssemblyReference.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfoInputs.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfo.cs
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.csproj.CoreCompileInputs.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\scopedcss\bundle\SistemaReservasAPI.styles.css
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaR.32BA12AC.Up2Date
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\refint\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.pdb
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.genruntimeconfig.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\obj\Debug\net9.0\ref\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasApi\obj\Debug\net9.0\SistemaReservasAPI.sourcelink.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Humanizer.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\MySqlConnector.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\System.CodeDom.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SitemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\appsettings.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.staticwebassets.endpoints.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.exe
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.deps.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.runtimeconfig.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\SistemaReservasAPI.pdb
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Humanizer.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\MySqlConnector.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\System.CodeDom.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.csproj.AssemblyReference.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfoInputs.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.AssemblyInfo.cs
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.csproj.CoreCompileInputs.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.sourcelink.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\scopedcss\bundle\SistemaReservasAPI.styles.css
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.SistemaReservasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SistemaReservasAPI.props
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaR.32BA12AC.Up2Date
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\refint\SistemaReservasAPI.dll
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.pdb
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\SistemaReservasAPI.genruntimeconfig.cache
+D:\COTO Desafio tecnico\COTO Desafio tecnico Backend\SistemaReservasAPI\obj\Debug\net9.0\ref\SistemaReservasAPI.dll

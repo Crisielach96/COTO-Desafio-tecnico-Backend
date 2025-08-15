@@ -1,0 +1,19 @@
+# Etapa 1: Build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+WORKDIR /app
+
+# Copiar proyecto y restaurar dependencias
+COPY SistemaReservasAPI.csproj ./
+RUN dotnet restore
+
+# Copiar resto del código y publicar
+COPY . ./
+RUN dotnet publish SistemaReservasAPI.csproj -c Release -o out
+
+# Etapa 2: Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/out ./
+
+# Comando para ejecutar la app
+ENTRYPOINT ["dotnet", "SistemaReservasAPI.dll"]
