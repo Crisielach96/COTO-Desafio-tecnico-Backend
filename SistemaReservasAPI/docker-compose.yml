@@ -1,0 +1,33 @@
+version: "3.9"
+
+services:
+  sistema-reservas-api:
+    image: sistema-reservas-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sistema-reservas-api
+    ports:
+      - "5241:8080"   # HTTP
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: 8080
+      ConnectionStrings__DefaultConnection: server=db;port=3306;database=coto;user=root;password=123456
+    depends_on:
+      - db      
+
+  db:
+    image: mysql:8.0
+    container_name: sistema_reservas_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: coto
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./initdb:/docker-entrypoint-initdb.d
+
+volumes:
+  mysql_data:

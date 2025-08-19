@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1071C5D-5E75-4EF6-B114-B86A5DE471A5}|..\\SistemaReservasAPI.Tests\\SistemaReservasAPI.Tests.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi.tests\\reservacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\initdb\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:initdb\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -14,8 +23,19 @@
       "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1071C5D-5E75-4EF6-B114-B86A5DE471A5}|..\\SistemaReservasAPI.Tests\\SistemaReservasAPI.Tests.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi.tests\\reservacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\initdb\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:initdb\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,55 +45,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "init.sql ",
+              "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\initdb\\init.sql",
+              "RelativeDocumentMoniker": "initdb\\init.sql",
+              "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\initdb\\init.sql",
+              "RelativeToolTip": "initdb\\init.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-19T14:49:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:59:38.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-19T13:58:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-19T13:26:41.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ReservaControllerTests.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
               "RelativeDocumentMoniker": "..\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
               "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
               "RelativeToolTip": "..\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T21:55:42.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Reserva.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
               "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Models\\Reserva.cs",
               "RelativeToolTip": "Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:08:58.276Z"
+              "WhenOpened": "2025-08-14T19:08:58.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:47:43.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ReservaController.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Controllers\\ReservaController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
               "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Controllers\\ReservaController.cs",
               "RelativeToolTip": "Controllers\\ReservaController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:45:48.473Z",
               "EditorCaption": ""

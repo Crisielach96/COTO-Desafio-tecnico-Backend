@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C41CA1-F50E-5F33-2190-DE741F646DA2}|SistemaReservasAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1071C5D-5E75-4EF6-B114-B86A5DE471A5}|..\\SistemaReservasAPI.Tests\\SistemaReservasAPI.Tests.csproj|d:\\coto desafio tecnico\\coto desafio tecnico backend\\sistemareservasapi.tests\\reservacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,19 +34,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:11:43.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReservaControllerTests.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
               "RelativeDocumentMoniker": "..\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
               "ToolTip": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
               "RelativeToolTip": "..\\SistemaReservasAPI.Tests\\ReservaControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T21:55:42.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Reserva.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:47:43.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:47:43.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReservaController.cs",
               "DocumentMoniker": "D:\\COTO Desafio tecnico\\COTO Desafio tecnico Backend\\SistemaReservasAPI\\Controllers\\ReservaController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
@@ -75,8 +91,7 @@
               "RelativeToolTip": "Controllers\\ReservaController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwDMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:45:48.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:45:48.473Z"
             }
           ]
         }
